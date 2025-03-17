@@ -1,6 +1,6 @@
 # Standard_Performance_Criteria_for_Applied_Control_PID_MPC_Machine_Learning
 
-This repository provides simulation fils for the following paper:
+This repository provides simulation files for the following paper:
 > **On the Standard Performance Criteria for Applied Control Design: PID, MPC or Machine Learning Controller?**
 >
 > Author: [Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
@@ -17,14 +17,13 @@ Simulations for PID and MPC that are performed in MATLAB can be found on this pa
 
 ```bibtex
 @inproceedings{sarhadi2022integrated,
-  title={An Integrated Risk Assessment and Collision Avoidance Methodology for an Autonomous Catamaran with Fuzzy Weighting Functions},
-  author={Sarhadi, Pouria and Naeem, Wasif and Athanasopoulos, Nikolaos},
-  booktitle={2022 UKACC 13th International Conference on Control (CONTROL)},
-  pages={228--234},
-  year={2022},
+  title={On the Standard Performance Criteria for Applied Control Design: PID, MPC or Machine Learning Controller},
+  author={Sarhadi},
+  pages={xxx},
+  year={20225},
   organization={IEEE}
 }
 ```
 
 ### Prerequisites
-MATLAB 2023B, just open the code started Run_Sim_PID_MPC and run it. Further descriptions are presented in comments.
+MATLAB 2023B, just open the code started Run_Sim_PID_MPC and run it. Further descriptions are presented in the comments.
