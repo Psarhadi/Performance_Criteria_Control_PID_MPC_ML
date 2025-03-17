@@ -7,7 +7,7 @@ This repository provides simulation fils for the following paper:
 >
 
 Simulations for PID and MPC that are performed in MATLAB can be found on this page. ML simulations, a development of Deep Deterministic Policy Gradient (DDPG), that is implemented in Python can be found here: 
->[Klinsman Agyei- DDPG controller simulation]([https://ise-uh.github.io/](https://github.com/Klins101/DDPG_AUV_Yaw_Control)). 
+>[Klinsman Agyei- DDPG controller simulation](https://ise-uh.github.io/](https://github.com/Klins101/DDPG_AUV_Yaw_Control). 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PSarhadi/Performance_Criteria_Control_PID_MPC_ML/main/Results.svg" width="50%">
 </p>
