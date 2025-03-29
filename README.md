@@ -19,9 +19,9 @@ Simulations for PID and MPC that are performed in MATLAB can be found on this pa
 @inproceedings{sarhadi2022integrated,
   title={On the Standard Performance Criteria for Applied Control Design: PID, MPC or Machine Learning Controller},
   author={Sarhadi},
-  pages={xxx},
-  year={20225},
-  organization={IEEE}
+  pages={1-7},
+  year={2025},
+  organization={arXiv:2503.14379v1}
 }
 ```
 
